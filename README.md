@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Java HelloWorld</title>
-</head>
 <body>
 
   <h1>👋 Java HelloWorld</h1>
