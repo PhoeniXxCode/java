@@ -2,11 +2,6 @@
 <html>
 <head>
   <title>Java HelloWorld</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 30px; background: #f9f9f9; color: #333; }
-    h1 { color: #2a7ae2; }
-    code, pre { background: #eee; padding: 5px; border-radius: 5px; }
-  </style>
 </head>
 <body>
 
@@ -20,6 +15,4 @@
     <li>JUnit 5</li>
   </ul>
 
-  <h2>🚀 Run</h2>
-  <pre><code>mvn compile
-mvn exec:java -Dexec.main
+  
